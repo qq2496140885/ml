@@ -1,0 +1,9 @@
+(sleep 1
+echo status
+sleep 1
+)|telnet localhost 7500
+
+(sleep 1
+echo status
+sleep 1
+)|telnet localhost 7501

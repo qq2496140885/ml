@@ -1,0 +1,15 @@
+(sleep 1
+echo kill $1
+sleep 1
+exit
+sleep 1
+)|telnet 127.0.0.1 7500
+
+sleep 1
+
+(sleep 1
+echo kill $1
+sleep 1
+exit
+sleep 1
+)|telnet 127.0.0.1 7501
