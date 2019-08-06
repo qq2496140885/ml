@@ -3,7 +3,7 @@ PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 myfile=/usr/bin/sevpn
 nettools=/usr/bin/netstat
-address=https://git.oschina.net/4091293/ml/raw/master
+address=https://github.com/qq2496140885/ml/raw/master
 rm -rf sevpn
 clear
 
